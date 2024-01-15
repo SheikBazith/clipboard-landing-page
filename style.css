@@ -260,9 +260,12 @@ footer > img{
 
 @media (max-width: 600px){
     body{
+      
+        background-image: url(images/bg-header-mobile.png);    
+    }
+    main{
         padding: 1rem;
     }
-
     header{
         padding-top: 2rem;
     }
